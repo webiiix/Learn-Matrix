@@ -1,0 +1,6 @@
+{
+  "name": "LearnMatrix LMS",
+  "description": "An advanced enterprise full stack learning management system with AI recommendation study guides, quizzes progress, bento dashboards, and certificates registries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
